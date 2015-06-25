@@ -3,3 +3,5 @@
 Includes:
 - CentOS 7.x
 - Puppet 3.x
+
+Puppet is used to bootstrap the box with the various components
